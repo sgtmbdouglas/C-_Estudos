@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NN1GKW1rgfk1CRDt/PJf/LGCFZDCZZaUdfd67xWB3Ys8LaaDzrHbiWI1cSG8bjpBFMgsCKGjwArLD173HOM/Q==",
+  "success": true,
+  "projectFilePath": "/home/dc/remoto/C_Sharp_Estudos/semana1/dia-1/HelloWeb/HelloWeb.csproj",
+  "expectedPackageFiles": [
+    "/home/dc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/dc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/dc/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/dc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/dc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/dc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
