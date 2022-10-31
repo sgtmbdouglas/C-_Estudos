@@ -1,0 +1,12 @@
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/bin/Debug/net6.0/greet.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/bin/Debug/net6.0/greet.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/bin/Debug/net6.0/ref/greet.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/bin/Debug/net6.0/greet.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/ref/greet.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-2/greet/obj/Debug/net6.0/greet.pdb
