@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/atribuição_reduzida
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/atribuição_reduzida.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/atribuição_reduzida.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/atribuição_reduzida.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/ref/atribuição_reduzida.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/bin/Debug/net6.0/atribuição_reduzida.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/ref/atribuição_reduzida.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/atribuição_reduzida/obj/Debug/net6.0/atribuição_reduzida.genruntimeconfig.cache

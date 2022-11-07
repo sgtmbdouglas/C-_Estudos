@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/usando_enum
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/usando_enum.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/usando_enum.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/usando_enum.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/ref/usando_enum.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/bin/Debug/net6.0/usando_enum.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/ref/usando_enum.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/usando_enum/obj/Debug/net6.0/usando_enum.genruntimeconfig.cache

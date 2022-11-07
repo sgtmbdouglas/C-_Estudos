@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/operacoes_aritimeticas
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/operacoes_aritimeticas.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/operacoes_aritimeticas.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/operacoes_aritimeticas.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/ref/operacoes_aritimeticas.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/bin/Debug/net6.0/operacoes_aritimeticas.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/ref/operacoes_aritimeticas.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/operacoes_aritimeticas/obj/Debug/net6.0/operacoes_aritimeticas.genruntimeconfig.cache
