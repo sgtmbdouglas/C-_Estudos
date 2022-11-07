@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/declarando_variaveis
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/declarando_variaveis.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/declarando_variaveis.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/declarando_variaveis.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/ref/declarando_variaveis.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/bin/Debug/net6.0/declarando_variaveis.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/ref/declarando_variaveis.dll
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana1/dia-3/declarando_variaveis/obj/Debug/net6.0/declarando_variaveis.genruntimeconfig.cache
