@@ -1,0 +1,12 @@
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/bin/Debug/net6.0/variable.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/bin/Debug/net6.0/variable.dll
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/bin/Debug/net6.0/ref/variable.dll
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/bin/Debug/net6.0/variable.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.dll
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/ref/variable.dll
+/home/dc/remoto/C_Sharp_Estudos/semana2/dia1Casting/case2/variable/obj/Debug/net6.0/variable.pdb

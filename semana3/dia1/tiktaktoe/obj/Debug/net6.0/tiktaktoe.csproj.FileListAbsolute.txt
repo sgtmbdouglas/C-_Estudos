@@ -1,0 +1,12 @@
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/tiktaktoe.deps.json
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/tiktaktoe.dll
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/ref/tiktaktoe.dll
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/tiktaktoe.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.dll
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/ref/tiktaktoe.dll
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.pdb
