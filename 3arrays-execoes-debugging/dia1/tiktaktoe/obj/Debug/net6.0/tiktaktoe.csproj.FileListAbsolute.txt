@@ -10,3 +10,6 @@
 /home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.dll
 /home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/ref/tiktaktoe.dll
 /home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.pdb
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/tiktaktoe
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/bin/Debug/net6.0/tiktaktoe.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/semana3/dia1/tiktaktoe/obj/Debug/net6.0/tiktaktoe.genruntimeconfig.cache
