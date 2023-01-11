@@ -1,0 +1,15 @@
+                Composição e Herança: reutilizando código em C#
+    O que é “composição”?
+        é um conceito fundamental da POO que nos permite definir que uma classe mais complexa é composta por outras classes, em regra, mais simples. 
+        possibilita separar conceitos e desacoplar funções, tornando nossas classes mais concisas e modulares!
+    Quando utilizar a composição
+        Em regra, utilizar a composição é sempre preferível a criar megaclasses que englobem mais de uma abstração, pois classes que internalizam muitas funcionalidades acabam gerando acoplamento e sendo mais difíceis de manter e modificar.
+        Avaliar a possibilidade de reutilização de código
+    quando não usar a composição?
+        dividirmos uma classe em abstrações menores se isso não trouxer nenhum benefício prático para o desenvolvimento da aplicação. A composição, apesar de desacoplar parte da lógica e permitir a sua reutilização, gera uma camada de complexidade que pode não ser necessária.
+        Dividir demais as classes pode causar um problema que chamamos de over-engineering, que é quando criamos soluções complexas demais para problemas que são fundamentalmente simples. Isso torna a manutenção e, por vezes, a própria execução do código mais lentas do que deveriam se tivéssemos feito de forma mais simples e direta.
+
+    Herança
+        estabelecer uma relação entre duas classes de modo a ter uma melhor organização do código.
+        Enquanto a composição pressupõe uma relação de contenedor/conteúdo, a herança, por sua vez, estabelece uma relação de hierarquia entre duas classes
+        
