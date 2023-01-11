@@ -1,0 +1,11 @@
+                as classes e metodos estaticos
+        as palavras chave get e set
+            podem ser ultilizados para modificar o comportamento das propriedades definidas
+            sao chamados de metodos de acesso, sao metodos especiais e possuem uma sintaxe um pouco diferente dos metodos comuns
+            dao acesso a novas possibilidades de controle de estado dos objetos atraves de suas propriedades
+        modificador static
+            Apesar de o comportamento mais comum das classes ser o de instanciar objetos, já que em regra elas representam abstrações generalizáveis, o C# possui um modificador que possibilita a definição de estados e comportamentos independentes de instâncias: o static.
+            As classes estáticas não são instanciáveis, ou seja, não é possível usar a chave new ou a sintaxe de inicialização de objetos para criar uma variável do tipo da classe. Para acessar os seus membros, devemos utilizar a própria classe!
+            Métodos estáticos são as ferramentas que servem de base para boa parte das bibliotecas de utilidades, como, por exemplo, a System.Math e a System.Convert!
+        O tipo string no C#, é um alias (ou apelido) para a classe System.String, que não é estática. Todas as strings que nosso código utiliza são, na verdade, instâncias dessa classe!
+        
