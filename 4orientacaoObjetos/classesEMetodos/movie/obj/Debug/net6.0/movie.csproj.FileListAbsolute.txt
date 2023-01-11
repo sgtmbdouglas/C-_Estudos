@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/movie
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/movie.deps.json
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/movie.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/movie.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/ref/movie.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/bin/Debug/net6.0/movie.pdb
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/ref/movie.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.pdb
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/classesEMetodos/movie/obj/Debug/net6.0/movie.genruntimeconfig.cache
