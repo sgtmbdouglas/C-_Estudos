@@ -1,0 +1,15 @@
+                orientação a objetos
+
+    Uma classe é, em síntese, um tipo customizado que contém a abstração de um objeto.
+        uma classe possui em seu corpo todas as informações necessárias para que você possa criar instâncias desse objeto e acessar suas propriedades ou funcionalidades em diferentes contextos.
+    
+    Construtores são métodos chamados toda vez que uma instância de uma classe é criada, ou seja, mesmo que não tenhamos definido um construtor customizado para determinada Classe, ela terá um construtor padrão, o qual não aceitará nenhum parâmetro nem definirá nenhuma propriedade.
+    É raro vermos a utilização do this para definir campos em código real. Ao invés disso, a prática mais difundida é a de declará-los com um underscore (“_”) antes do nome.
+    Saber utilizar, instanciar e definir classes é uma habilidade fundamental na POO e não é possível “codar” em C# sem ter uma base muito sólida nesse sentido!
+    O conceito de objeto, na programação, não é limitado à sua materialidade frente a uma abstração que o generaliza. Temos também, dentro do conceito de objeto, a seguinte definição:
+        Um objeto é uma entidade com estado e comportamento
+    No caso do C#, o comportamento dos objetos é definido nos métodos das classes, enquanto o seu estado é determinado pelos valores dos seus campos e propriedades.
+    Para criarmos propriedades em C#, antes é preciso lembrar que campos e propriedades, embora possuam várias semelhanças, são elementos de código distintos que representam o estado de objetos instanciados no C#.
+        Os campos normalmente são privados e utilizados para guardar dados que, em regra, devem ser de uso exclusivo dos demais membros da classe.
+        As propriedades são métodos especiais que funcionam como “campos inteligentes”, permitindo diferentes formas de acessar e modificar os campos de uma classe e, assim como os construtores, tendem a ser públicos, embora isso não seja uma regra.
+        
