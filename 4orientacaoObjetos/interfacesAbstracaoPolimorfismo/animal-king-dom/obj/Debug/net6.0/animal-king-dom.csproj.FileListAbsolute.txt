@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/animal-king-dom
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/animal-king-dom.deps.json
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/animal-king-dom.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/animal-king-dom.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/ref/animal-king-dom.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/bin/Debug/net6.0/animal-king-dom.pdb
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/ref/animal-king-dom.dll
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.pdb
+/home/dc/remoto/C_Sharp_Estudos/4orientacaoObjetos/interfacesAbstracaoPolimorfismo/animal-king-dom/obj/Debug/net6.0/animal-king-dom.genruntimeconfig.cache
