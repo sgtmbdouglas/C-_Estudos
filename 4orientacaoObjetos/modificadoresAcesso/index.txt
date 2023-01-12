@@ -1,0 +1,15 @@
+                Modificadores de Acesso
+        modificadores vão controlar quem pode ver, acessar e modificar
+            Escopos definem o local onde a referência para a memória de uma variável pode ser acessada
+            os Modificadores de acesso, que vamos estudar, permitem ou não o acesso a elas, mas antes de permitirem elas precisam necessariamente fazer parte do escopo de quem quer acessá-las.
+        Os modificadores de acesso do C#
+            Os modificadores de acesso mais comuns da linguagem C# São o public, o protected e o private.
+        A sintaxe básica para utilizar os modificadores é como um prefixo de variável, função ou classe, por exemplo:
+            \<Modificador> \<Declaração de tipo, atributo, método ou classe>
+        O modificador public
+            Um item público no C# significa que qualquer parte do código pode referenciar esse item se estiver no seu escopo. Por exemplo, outras funções ou classes externas podem acessar e modificar o atributo em qualquer objeto da classe
+        O modificador protected
+            O modificador protected permite o acesso e referência para itens na mesma classe ou em classes herdeiras.
+        O modificador private
+            é o modificador padrão de atributos membros em C#, então se definimos um atributo membro de uma classe da seguinte forma:
+            
