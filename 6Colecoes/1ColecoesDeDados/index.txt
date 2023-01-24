@@ -1,0 +1,18 @@
+                Coleções de dados em C#
+        classe muito interessante desse ecossistema, chamada coleções.
+        Muitos úteis quando precisamos manipular uma série de valores em um agrupamento. Essa abordagem facilita, por exemplo, em casos que precisamos retornar uma lista de informações do banco de dados, a qual representa um mesmo agrupamento.
+        Quando trabalhamos com coleções, estamos nos referindo sempre às classes do namespace System.Collections, cujas instâncias correspondem aos objetos de coleção.
+        As Classes do namespace System.Collections trabalham sempre com objetos não tipados, que são do tipo Object.
+        List<string> stringList = new List<string>(){ "carro", "casa", "roupa", "avião" };
+        List<int> intList = new List<int>{ 1, 2, 6, 8, 10, 87, 45 };
+        Os métodos mais utilizados com listas são: .Add(), .Remove(), .RemoveAt(), .IndexOf() e .Sort(). Cada um deles nos ajuda a resolver alguns problema
+            .Add() - Serve para adicionarmos itens da lista.
+            .Remove() - Serve para remover um item específico da lista.
+            .RemoveAt() - Serve para removermos itens da lista segundo o índice deles.
+            .IndexOf - Nos retorna o índice de um objeto na lista.
+            .Sort() - Serve para ordenar a nossa lista.
+            Queue<T>: Representa um tipo de lista em que o primeiro item a entrar também é o primeiro item a sair da lista.
+            Stack<T>: Representa um tipo de lista em que o último item a entrar é o primeiro item a sair da lista.
+            SortedList<T>: É um tipo de coleção formado por chave/valor, sendo ordenados por chave e acessíveis por chave ou índice.
+            
+https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-6.0
