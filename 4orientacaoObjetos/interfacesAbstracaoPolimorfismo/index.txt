@@ -1,0 +1,9 @@
+                Interfaces, Classes Abstratas e Polimorfismo
+    As interfaces não definem ou instanciam, por si sós, os objetos que iremos utilizar, mas servem como uma espécie de “contrato” que definirá quais comportamentos mínimos o objeto que iremos utilizar deve definir para poder ser utilizado naquele local.
+    O polimorfismo é a possibilidade de que mais de uma abstração possa responder a uma mesma mensagem, com implementações e retornos independentes entre si.
+    polimorfismo é o que temos quando objetos de tipos diferentes podem ser utilizados no mesmo contexto, sem que isso gere problemas de compatibilidade.
+    As classes estáticas não são os únicos tipos de classe que não são instanciáveis. No C#, temos também as classes abstratas, que são aquelas que não implementam todos os seus métodos e que, ao invés de serem implementadas diretamente, servem como ponto de partida para classes derivadas que, por sua vez, serão instanciadas.
+    Quando usar classes abstratas
+        Implementações que serão comuns a todas as herdeiras
+        Mensagens cujo recebimento poderá ser feito por qualquer uma das suas herdeiras
+        

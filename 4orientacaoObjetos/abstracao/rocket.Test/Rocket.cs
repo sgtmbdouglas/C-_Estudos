@@ -6,9 +6,9 @@ class Rocket
     public string Country = "Apátrida";
     public double Speed;
 
-    public Rocket()
-    {
-    }
+    // public Rocket()
+    // {
+    // }
 
     // string Name { get; set; }
     public Rocket(string nome, string country, double speed)

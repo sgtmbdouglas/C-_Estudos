@@ -1,0 +1,23 @@
+                Explorando estruturas avançadas
+    Organizando Tipos em C#
+        Namespace é uma forma de organizar tipos definidos no seu projeto, como classes, structs, interfaces e enums em um mesmo conjunto.
+        Organizando tipos em um mesmo conjunto, podemos definir domínios específicos em uma aplicação, facilitando o processo de encontrar tipos ou utilizá-los em diferentes partes do sistema. Essa forma de organização é muito utilizada em C# e até mesmo pela framework .NET.
+        Também podemos dizer ao compilador para importar todos os tipos presentes no namespace MyNamespace e deixar disponíveis para acesso direto dentro desse arquivo da seguinte forma:
+            using MyNamespace;
+    Em C#, temos duas categorias de tipos de variáveis, os Tipos de valor e os Tipos de referência.
+        Tipos de valores são os tipos de variáveis que possuem o seu valor armazenado diretamente, ou seja, a variável em si é aquele valor que ela representa e não uma referência para o valor em outra parte da memória.
+        Exemplos de tipos de valores: int, float, double, char, bool.
+        🚨Importante🚨: string NÃO É um tipo de valor, string é um tipo de referência.
+        
+        Tipos de referência são os tipos que armazenam uma referência ao seu valor e não o valor propriamente dito, e isso tem consequências importantes. Por exemplo, duas variáveis de tipo de referência podem se referenciar a um mesmo valor armazenado na memória.
+        Exemplos de tipos de referência são: classes, interfaces, string, Action. Isso significa que qualquer instância de uma classe que criar, essa instância será uma referência ao valor real.
+    
+     Estruturas também possuem modificadores de acesso como public, private e protected, assim como classes, e funcionam da mesma forma.
+
+    Structs, as classes simplificadas em C#
+        Structs são estruturas de dados em C# onde é possível criar objetos de forma parecida com uma class, porém simplificada.
+    
+    Melhorando a legibilidade do código com Enum
+        Enums são estruturas de dados em C# que são utilizadas para melhorar a legibilidade do código construído. Você já deve ter se deparado com situações em que precisamos definir apenas algumas poucas possibilidades para um determinado valor, como por exemplo uma compra com cartão que pode ser feita no Crédito ou no Débito
+        Você não precisa definir os valores das constantes de uma Enum. Caso não defina, os valores serão inteiros, começando de 0 e crescendo a cada constante definida na Enum.
+        
