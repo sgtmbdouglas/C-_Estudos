@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/LambdaFunc
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/LambdaFunc.deps.json
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/LambdaFunc.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/LambdaFunc.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/ref/LambdaFunc.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/bin/Debug/net6.0/LambdaFunc.pdb
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/ref/LambdaFunc.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.pdb
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/LambdaFunc/obj/Debug/net6.0/LambdaFunc.genruntimeconfig.cache

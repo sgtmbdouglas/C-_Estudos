@@ -1,0 +1,15 @@
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/Book
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/Book.deps.json
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/Book.runtimeconfig.json
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/Book.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/ref/Book.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/bin/Debug/net6.0/Book.pdb
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.csproj.AssemblyReference.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.GeneratedMSBuildEditorConfig.editorconfig
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.AssemblyInfoInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.AssemblyInfo.cs
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.csproj.CoreCompileInputs.cache
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/ref/Book.dll
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.pdb
+/home/dc/remoto/C_Sharp_Estudos/6Colecoes/2LINQbasic/Book/obj/Debug/net6.0/Book.genruntimeconfig.cache

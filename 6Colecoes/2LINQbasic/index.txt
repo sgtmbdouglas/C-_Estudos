@@ -1,0 +1,49 @@
+                Language Integrated Query (LINQ) básico
+        Language-Integrated Query, ou LINQ, é um conjunto de tecnologias que permite manipular coleções vindas de diversas fontes de dados no C#, de forma declarativa e agnóstica.
+        Agnóstica: No contexto da programação, agnóstico quer dizer independente de tecnologia. No caso do LINQ, podemos trabalhar de uma forma única, manipulando diversas sintaxes de bancos de dados diferentes.
+        A pesquisa feita utilizando LINQ retorna os dados de forma eficiente, com menos código e mais consistência no padrão de escrita, independente da fonte de dados, além de serem fáceis de entender, visto que elas são declarativas.
+        Inicialmente, o LINQ foi desenvolvido para simplificar a manipulação de bases de dados diversas, solucionando o problema de sintaxe para diferentes bancos de dados.
+        O que é uma consulta em LINQ?
+            Obtenção de uma fonte de dados que implemente a interface IEnumerable;
+            Criação da consulta, em que usaremos cláusulas e expressões para efetuarmos nossas operações (como filtragem, ordenação, seleção, entre outros).
+                LINQ também suporta fonte de dados remotas, como o SQL Server, o qual implementa a interface especializada em banco de dados IQueryable, com as mesmas cláusulas e expressões da IEnumerable.
+        Como usar o LINQ em um projeto?
+            As classes utilitárias do C# são organizadas por meios de namespaces, e com todo o pacote de soluções LINQ isso não é diferente.
+            Entretanto, diferente da maioria dos outros utilitários que disponibilizam todas as interfaces sob um único namespace, o .NET Framework possui alguns namespaces separados pela categoria de dado a ser manipulado pelo LINQ.
+            Existem três classes que merecem um destaque especial e que fazem a mágica acontecer. São elas:
+                System.Linq
+                    Contém todas as classes, interfaces e enumeradores básicos usados para trabalhar com LINQ.
+                    Sempre iremos incluir este namespace em nosso projeto, pois cada consulta feita em LINQ o utiliza como base.
+                System.Data.Linq
+                    As classes neste namespace auxiliam na manipulação de base de dados SQL, independente do banco a ser utilizado.
+                System.Linq.Expressions
+                    Este namespace disponibiliza uma série de utilitários que permitem a criação das condições as quais podemos utilizar no LINQ. É por meio dessas condições que fazemos a manipulação dos dados.
+                        Um exemplo de expressão pode ser a nossa boa e velha condicional IF 
+        Como uma consulta LINQ funciona?
+            Uma consulta é constituída de dois conceitos importantes: elementos e sequências.
+            LINQ permite a construção de consultas tipadas, seja retornando um:
+                conjunto de objetos;
+                objeto;
+                subconjunto de campos de um objeto;
+                subconjunto de conjunto de objetos.
+        Como escrever uma consulta LINQ
+            LINQ segue as regras de sintaxe do C#, como, por exemplo, não é possível usar variáveis antes de elas serem declaradas. Entretanto, a título de comparação, no SQL é possível utilizar um aliás para uma tabela em um SELECT antes de ela ser declarada em uma cláusula FROM.
+            O LINQ disponibiliza uma estrutura base para a realização de consultas, com a cláusula FROM sendo a única obrigatória.
+            Para criarmos uma consulta com LINQ, precisamos primeiro definir uma fonte de dados. Essa fonte pode ser um array, uma lista, um XML ou uma base de dados.
+        Montando uma consulta básica com LINQ
+            Chamar o namespace System.Linq não faz a mágica acontecer. Precisamos passar instruções para o compilador, indicandoo que, como e de ondequeremos trazer nossos dados.
+            Para conseguirmos manipular nossa fonte de dados, recorremos às cláusulas disponíveis na classe System.Linq.Enumerable
+            Uma consulta LINQ construída de forma declarativa sempre começa com a cláusula from, pois é ela que vai indicar de onde vêm os dados que iremos utilizar, terminando assim com a cláusula select ou group
+        Uma consulta sem WHERE? Isso é possível produção?
+            Assim como no SQL, no LINQ podemos omitir a cláusula where em casos em que queremos retornar toda a coleção disponível em nossa fonte de dados. 
+        De onde surgem nossos dados?
+            LINQ permite uma consulta em qualquer coleção que implemente a interface IEnumerable<T>, seja um array, uma lista, um XML ou uma fonte de dados remota, como uma tabela no SQL.
+            Para a execução dessa consulta, a cláusula from é a única obrigatória quando usamos LINQ.
+            Na consulta a uma fonte de dados é permitida a presença de apenas uma cláusula from, pois ela determina qual fonte será usada.
+        Selecionando o que queremos
+            Quando o select é usado para transformar um elemento, dizemos que ele está realizando uma projeção sobre nossa fonte de dados.
+        Como criar filtros em cima da nossa fonte de dados?
+            Resgatar todos os dados de uma fonte de dados nem sempre é uma boa ideia, pois isso afeta o desempenho da aplicação e faz uso desnecessário de recursos da máquina.
+            Podemos utilizar a cláusula where, seguida de uma condição booleana, em qualquer lugar da nossa consulta depois do uso da cláusula from; porém, muito cuidado! O uso da cláusula where pode afetar como a consulta é filtrada.
+        Passando condições para a cláusula WHERE
+            no arquivo Book tem exemplo pratico
